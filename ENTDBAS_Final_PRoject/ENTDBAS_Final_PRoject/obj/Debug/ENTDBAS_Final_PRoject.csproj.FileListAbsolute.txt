@@ -1,0 +1,5 @@
+c:\users\winchester\documents\visual studio 2010\Projects\ENTDBAS_Final_PRoject\ENTDBAS_Final_PRoject\bin\ENTDBAS_Final_PRoject.dll
+c:\users\winchester\documents\visual studio 2010\Projects\ENTDBAS_Final_PRoject\ENTDBAS_Final_PRoject\bin\ENTDBAS_Final_PRoject.pdb
+c:\users\winchester\documents\visual studio 2010\Projects\ENTDBAS_Final_PRoject\ENTDBAS_Final_PRoject\obj\Debug\ResolveAssemblyReference.cache
+c:\users\winchester\documents\visual studio 2010\Projects\ENTDBAS_Final_PRoject\ENTDBAS_Final_PRoject\obj\Debug\ENTDBAS_Final_PRoject.dll
+c:\users\winchester\documents\visual studio 2010\Projects\ENTDBAS_Final_PRoject\ENTDBAS_Final_PRoject\obj\Debug\ENTDBAS_Final_PRoject.pdb
